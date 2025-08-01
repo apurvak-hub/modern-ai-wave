@@ -66,7 +66,7 @@ modern-ai-wave/
 
 ---
 
-## 📚 Learning Resources
+## 📚 Learning Resources (Coming Soon)
 
 Explore curated guides:
 
@@ -86,8 +86,8 @@ This repository is licensed under the [MIT License](LICENSE).
 
 Built with passion by **[Apurva kanchibhotla]**  
 
-📫 Email: <your.email@example.com>  
-🔗 LinkedIn: [YourLinkedInProfile]  
-🐙 GitHub: [YourGitHubProfile]  
+📫 Email: <kanchibhotlaapurva@gmail.com>  
+🔗 LinkedIn: [https://www.linkedin.com/feed/]
+🐙 GitHub: [https://github.com/apurvak-hub]  
 
 > _"The wave of the future is powered by intelligent code."_ 🌊
